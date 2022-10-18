@@ -126,7 +126,7 @@ export default {
       this.formulario.id = user._id;
       this.formulario.name = user.name;
       this.formulario.email = user.email;
-      this.formulario.password = null;
+      this.formulario.password = user.senha;
       this.disable = true;
     },
 
