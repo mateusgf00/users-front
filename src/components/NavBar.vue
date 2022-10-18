@@ -1,16 +1,12 @@
 <template>
   <header class="navbar">
     <section class="navbar-section">
-      <h3 class="h3">Users Cad</h3>
-    </section>
-    <section class="navbar-section">
-      <div class="input-group input-inline">
-        <input class="form-input" type="text" placeholder="Digite aqui..." />
-        <button class="btn">Pesquisar</button>
-      </div>
+      <h3 class="h3">Cadastro de usuarios</h3>
     </section>
   </header>
 </template>
+
+<script></script>
 
 <style scoped>
   .navbar {
